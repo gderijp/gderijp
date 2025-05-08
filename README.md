@@ -1,4 +1,4 @@
-![Giorgio de Rijp (2)](https://github.com/user-attachments/assets/37d8148f-b29b-4adc-a035-50324875b4f6)
+![Giorgio de Rijp](https://github.com/user-attachments/assets/37d8148f-b29b-4adc-a035-50324875b4f6)
 
 ## Hello World! My name's Giorgio 👋
 
